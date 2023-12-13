@@ -1,0 +1,40 @@
+---
+title: "Data Adventures with Beta and Bit"
+image: logo2.png
+about:
+  template: solana
+---
+
+### About
+
+The Beta Bit project was conceived to help understand the statistical thinking mindset and to increase skills known as data literacy. This can be accomplished in a variety of ways, the approach we prefer here is based on three foundations:
+
+- *Show the whole process.* When working with data, it is very rare to use only one method or one trick. So showing how statistical thinking works should show the entire process of inference so that one can understand the context and the impact of the choices taken along the way from the begining to the final results.
+- *Data analysis is fun.* So learning how to do data analysis should be fun to! This can be achieved by using real data and current and interesting problems.
+- *Play through these adventures yourself* by messing with the data in your favorite software. All results presented should be completely reproducible so that the reader can try for themselves what would have happened if they had made different decisions in the data analysis process.
+
+## Beta and Bit stories
+
+The list of stories will grow. Currently, we invite you to read the following stories.
+
+- Do you want to explore the life cycle of a predictive model? How to build a predictive model using decision trees or a random forest and then dig deeper into the model to understand what relationships it has learned? If so, the story [,,The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R''](rml.html) is for you.
+- Or maybe you are interested in the arcana of data visualization? Then you should read [Charts Runners](charts.html) - a collection of short essays on how to visualize data, how not to do it, how to use ggplot2 package and what visual communication standards you can use.
+- The [Chaos Game](chaos.html) is for those interested in fractals. The three short stories will introduce both the characters of the three great mathematicians and allow you to learn the mathematical basis of fractals - geometric figures with properties not of this earth. The included codes in R, Python and Julia will allow you to draw fractals yourself in any of these languages.
+
+
+## Who is Beta and Bit?
+
+![At their headquarters, Beta and Bit are awaiting a new data analysis challenge](intro_betabit.png)
+
+Beta is math geek, interested in statistics and data analysis. It is important to her that every performed analyses have a solid foundation and are well validated.
+
+Bit is a computer scientist, interested in data science and machine learning. He loves to code robots, break security measures, knows many programming languages and usually acts first then thinks.
+
+Together they make a great team, able to look at complex problems from different perspectives to find the best solution.
+
+
+## What are Beta and Bit stories?
+
+The Beta and Bit stories are a series of adventure stories involving the deeper statistical analysis of a problem. Each problem is presented from beginning to end, so that the reader can understand the reason why the problem is being solved in this particular way, but also see how different potential solutions translate into results.
+
+The collection of stories will be expanded and we also continue to look for new applications for them. If you would like to talk about new stories or new potential applications, please contact me [https://www.linkedin.com/in/pbiecek/](https://www.linkedin.com/in/pbiecek/).

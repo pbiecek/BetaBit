@@ -1,0 +1,17 @@
+---
+title: "Chaos Game"
+image: cover_chaos.png
+about:
+  template: solana
+  links:
+    - icon: github
+      text: Online version
+      href: https://chaosgame.drwhy.ai/
+---
+
+It will be updated shortly!
+
+Please come back soon
+
+
+<!-- ![chaos_triangle.png](chaos_triangle.png) -->

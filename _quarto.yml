@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Beta&Bit"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: rml.qmd
+        text: HG to RML
+      - href: charts.qmd
+        text: Chart Runners
+      - href: chaos.qmd
+        text: Chaos Game
+
+format:
+  html:
+    theme: Sketchy
+    css: styles.css
+    toc: true
+
+
+
