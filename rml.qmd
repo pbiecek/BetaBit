@@ -53,7 +53,7 @@ This book was translated into following langauges:
 - Spanish translation *,,La Guía del Viajero al Aprendizaje Automático Responsable''* by *Juan C. Correa* and *Yanina Bellini Saibene* avaliable at [https://betaandbit.github.io/RML_ES/](https://betaandbit.github.io/RML_ES/)
 - German translation *,,Per Anhalter durch die Galaxis des verantwortungsvollen maschinellen Lernens''* by *Gero Szepannek* avaliable at [https://betaandbit.github.io/RML_DE/](https://betaandbit.github.io/RML_DE/)
 - Turkish translation *,,Sorumlu Makine Öğrenmesi Rehberi''* by *Mustafa Çavuş* and *Özlem Kurt Çavuş* avaliable at [https://betaandbit.github.io/RML_TR/](https://betaandbit.github.io/RML_TR/)
-- Polish translation *,,Wprowadzenie do modelowania predykcyjnego''*  by *Anna Kozak* and *Przemysław Biecek* avaliable at [https://betaandbit.github.io/MiniML/](https://betaandbit.github.io/MiniML/)
+- Polish translation *,,Wprowadzenie do modelowania predykcyjnego''*  by *Anna Kozak*, *Aleksander Zawada*, *Hubert Baniecki* and *Przemysław Biecek* avaliable at [https://betaandbit.github.io/MiniML/](https://betaandbit.github.io/MiniML/)
 - Vietnamese translation *,,4.0.1 Cùng xây dựng Model Machine Learning với Bêta và Bít''* by *Lý Hoàng Thiên* avaliable at [https://betaandbit.github.io/RML_VN/](https://betaandbit.github.io/RML_VN/)
 
 

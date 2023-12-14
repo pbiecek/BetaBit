@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Adventures with Beta and Bit",
+    "objectID": "chaos.html",
+    "href": "chaos.html",
+    "title": "Chaos Game",
     "section": "",
-    "text": "The Beta Bit project was conceived to help understand the statistical thinking mindset and to increase skills known as data literacy. This can be accomplished in a variety of ways, the approach we prefer here is based on three foundations:\n\nShow the whole process. When working with data, it is very rare to use only one method or one trick. So showing how statistical thinking works should show the entire process of inference so that one can understand the context and the impact of the choices taken along the way from the begining to the final results.\nData analysis is fun. So learning how to do data analysis should be fun to! This can be achieved by using real data and current and interesting problems.\nPlay through these adventures yourself by messing with the data in your favorite software. All results presented should be completely reproducible so that the reader can try for themselves what would have happened if they had made different decisions in the data analysis process."
-  },
-  {
-    "objectID": "index.html#beta-and-bit-stories",
-    "href": "index.html#beta-and-bit-stories",
-    "title": "Data Adventures with Beta and Bit",
-    "section": "Beta and Bit stories",
-    "text": "Beta and Bit stories\nThe list of stories will grow. Currently, we invite you to read the following stories.\n\nDo you want to explore the life cycle of a predictive model? How to build a predictive model using decision trees or a random forest and then dig deeper into the model to understand what relationships it has learned? If so, the story ,,The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R’’ is for you.\nOr maybe you are interested in the arcana of data visualization? Then you should read Charts Runners - a collection of short essays on how to visualize data, how not to do it, how to use ggplot2 package and what visual communication standards you can use.\nThe Chaos Game is for those interested in fractals. The three short stories will introduce both the characters of the three great mathematicians and allow you to learn the mathematical basis of fractals - geometric figures with properties not of this earth. The included codes in R, Python and Julia will allow you to draw fractals yourself in any of these languages."
-  },
-  {
-    "objectID": "index.html#who-is-beta-and-bit",
-    "href": "index.html#who-is-beta-and-bit",
-    "title": "Data Adventures with Beta and Bit",
-    "section": "Who is Beta and Bit?",
-    "text": "Who is Beta and Bit?\n\n\n\nAt their headquarters, Beta and Bit are awaiting a new data analysis challenge\n\n\nBeta is math geek, interested in statistics and data analysis. It is important to her that every performed analyses have a solid foundation and are well validated.\nBit is a computer scientist, interested in data science and machine learning. He loves to code robots, break security measures, knows many programming languages and usually acts first then thinks.\nTogether they make a great team, able to look at complex problems from different perspectives to find the best solution."
-  },
-  {
-    "objectID": "index.html#what-are-beta-and-bit-stories",
-    "href": "index.html#what-are-beta-and-bit-stories",
-    "title": "Data Adventures with Beta and Bit",
-    "section": "What are Beta and Bit stories?",
-    "text": "What are Beta and Bit stories?\nThe Beta and Bit stories are a series of adventure stories involving the deeper statistical analysis of a problem. Each problem is presented from beginning to end, so that the reader can understand the reason why the problem is being solved in this particular way, but also see how different potential solutions translate into results.\nThe collection of stories will be expanded and we also continue to look for new applications for them. If you would like to talk about new stories or new potential applications, please contact me https://www.linkedin.com/in/pbiecek/."
+    "text": "It will be updated shortly!\nPlease come back soon"
   },
   {
     "objectID": "rml.html",
@@ -67,20 +46,76 @@
     "href": "rml.html#language-versions",
     "title": "The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R",
     "section": "Language versions",
-    "text": "Language versions\nThis book was translated into following langauges:\n\nSpanish translation ,,La Guía del Viajero al Aprendizaje Automático Responsable’’ by Juan C. Correa and Yanina Bellini Saibene avaliable at https://betaandbit.github.io/RML_ES/\nGerman translation ,,Per Anhalter durch die Galaxis des verantwortungsvollen maschinellen Lernens’’ by Gero Szepannek avaliable at https://betaandbit.github.io/RML_DE/\nTurkish translation ,,Sorumlu Makine Öğrenmesi Rehberi’’ by Mustafa Çavuş and Özlem Kurt Çavuş avaliable at https://betaandbit.github.io/RML_TR/\nPolish translation ,,Wprowadzenie do modelowania predykcyjnego’’ by Anna Kozak and Przemysław Biecek avaliable at https://betaandbit.github.io/MiniML/\nVietnamese translation ,,4.0.1 Cùng xây dựng Model Machine Learning với Bêta và Bít’’ by Lý Hoàng Thiên avaliable at https://betaandbit.github.io/RML_VN/"
+    "text": "Language versions\nThis book was translated into following langauges:\n\nSpanish translation ,,La Guía del Viajero al Aprendizaje Automático Responsable’’ by Juan C. Correa and Yanina Bellini Saibene avaliable at https://betaandbit.github.io/RML_ES/\nGerman translation ,,Per Anhalter durch die Galaxis des verantwortungsvollen maschinellen Lernens’’ by Gero Szepannek avaliable at https://betaandbit.github.io/RML_DE/\nTurkish translation ,,Sorumlu Makine Öğrenmesi Rehberi’’ by Mustafa Çavuş and Özlem Kurt Çavuş avaliable at https://betaandbit.github.io/RML_TR/\nPolish translation ,,Wprowadzenie do modelowania predykcyjnego’’ by Anna Kozak, Aleksander Zawada, Hubert Baniecki and Przemysław Biecek avaliable at https://betaandbit.github.io/MiniML/\nVietnamese translation ,,4.0.1 Cùng xây dựng Model Machine Learning với Bêta và Bít’’ by Lý Hoàng Thiên avaliable at https://betaandbit.github.io/RML_VN/"
   },
   {
     "objectID": "charts.html",
     "href": "charts.html",
     "title": "Chart Runners",
     "section": "",
-    "text": "It will be updated shortly!\nPlease come back soon"
+    "text": "How to create good plots? Good ones, meaning ones that are viewed with pleasure, that are informative, that are understood by a wide audience but that still can be appreciated by connoisseurs.\nIt requires some training and knowledge of some principles but it is a skill that can be learned. And it’s not just idle chatter, I have proof. Since 2013 I’ve been teaching a Data Visualization Techniques course at the University of Warsaw and Warsaw University of Technology. During this time I’ve had the pleasure of working with hundreds of STEM students, most of whom were able to create amazing, clear and often exceptional visualizations, right after learning about the rules of communication via plots.\nBased on the experience from these classes, Chart Runners were created. This is a collection of brief lectures on different aspects useful for better understanding, how communication with the use of statistical charts works. On the following pages, many analogies to preparing dishes will be presented because both in the kitchen, as well as when preparing statistical charts, you need practice, the knowledge of some basic principles, a bunch of trusted recipes and lots of enthusiasm for experimentation. With this arsenal, any student of culinary arts is destined for success.\nDiscover the thrill and depth of crafting charts, making learning both insightful and enjoyable."
   },
   {
-    "objectID": "chaos.html",
-    "href": "chaos.html",
-    "title": "Chaos Game",
+    "objectID": "charts.html#about",
+    "href": "charts.html#about",
+    "title": "Chart Runners",
     "section": "",
-    "text": "It will be updated shortly!\nPlease come back soon"
+    "text": "How to create good plots? Good ones, meaning ones that are viewed with pleasure, that are informative, that are understood by a wide audience but that still can be appreciated by connoisseurs.\nIt requires some training and knowledge of some principles but it is a skill that can be learned. And it’s not just idle chatter, I have proof. Since 2013 I’ve been teaching a Data Visualization Techniques course at the University of Warsaw and Warsaw University of Technology. During this time I’ve had the pleasure of working with hundreds of STEM students, most of whom were able to create amazing, clear and often exceptional visualizations, right after learning about the rules of communication via plots.\nBased on the experience from these classes, Chart Runners were created. This is a collection of brief lectures on different aspects useful for better understanding, how communication with the use of statistical charts works. On the following pages, many analogies to preparing dishes will be presented because both in the kitchen, as well as when preparing statistical charts, you need practice, the knowledge of some basic principles, a bunch of trusted recipes and lots of enthusiasm for experimentation. With this arsenal, any student of culinary arts is destined for success.\nDiscover the thrill and depth of crafting charts, making learning both insightful and enjoyable."
+  },
+  {
+    "objectID": "charts.html#fully-reproducible-code-snippets",
+    "href": "charts.html#fully-reproducible-code-snippets",
+    "title": "Chart Runners",
+    "section": "Fully reproducible code snippets",
+    "text": "Fully reproducible code snippets\nImmerse yourself in a story based on exploration of food products! The last chapter is all about learning how to create plots in ggplot2 package for R. With this book you can easily get all the data and snippets required to reproduced presented results.\nJust jump to the last chapter and you will find everything what is needed there. https://betaandbit.github.io/Charts/code_it.html.\n\n\n\ncharts_ggplot2.png"
+  },
+  {
+    "objectID": "charts.html#how-to-get-this-book",
+    "href": "charts.html#how-to-get-this-book",
+    "title": "Chart Runners",
+    "section": "How to get this book?",
+    "text": "How to get this book?\nCurrently a printed version is not avaliable for sale.\nBut, you can get an onilne version for free. The online version is avaliable at https://betaandbit.github.io/Charts/."
+  },
+  {
+    "objectID": "charts.html#what-to-do-with-this-book",
+    "href": "charts.html#what-to-do-with-this-book",
+    "title": "Chart Runners",
+    "section": "What to do with this book?",
+    "text": "What to do with this book?\nYou can use this book as a self-teaching materials or as a supplementary/companion materials to any course related to Data Visualistion. Educators and workshop facilitators can utilize its structured approach and reproducible analyses to augment workshops, fostering in-depth discussions and hands-on learning experiences."
+  },
+  {
+    "objectID": "charts.html#language-versions",
+    "href": "charts.html#language-versions",
+    "title": "Chart Runners",
+    "section": "Language versions",
+    "text": "Language versions\nThis book was translated into following langauges:\n\nEnglish translation ,,Chart runnert’’ by Mikolaj Spytek and Mateusz Krzyzinski avaliable at https://betaandbit.github.io/Charts/\nPolish translation ,,Wykresy od kuchni’’ by Przemysław Biecek avaliable at https://betaandbit.github.io/Wykresy/\nTurkish translation ,,Sorumlu Makine Öğrenmesi Rehberi’’ by Mustafa Çavuş avaliable soon"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Adventures with Beta and Bit",
+    "section": "",
+    "text": "The Beta Bit project was conceived to help understand the statistical thinking mindset and to increase skills known as data literacy. This can be accomplished in a variety of ways, the approach we prefer here is based on three foundations:\n\nShow the whole process. When working with data, it is very rare to use only one method or one trick. So showing how statistical thinking works should show the entire process of inference so that one can understand the context and the impact of the choices taken along the way from the begining to the final results.\nData analysis is fun. So learning how to do data analysis should be fun to! This can be achieved by using real data and current and interesting problems.\nPlay through these adventures yourself by messing with the data in your favorite software. All results presented should be completely reproducible so that the reader can try for themselves what would have happened if they had made different decisions in the data analysis process."
+  },
+  {
+    "objectID": "index.html#beta-and-bit-stories",
+    "href": "index.html#beta-and-bit-stories",
+    "title": "Data Adventures with Beta and Bit",
+    "section": "Beta and Bit stories",
+    "text": "Beta and Bit stories\nThe list of stories will grow. Currently, we invite you to read the following stories.\n\nDo you want to explore the life cycle of a predictive model? How to build a predictive model using decision trees or a random forest and then dig deeper into the model to understand what relationships it has learned? If so, the story ,,The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R’’ is for you.\nOr maybe you are interested in the arcana of data visualization? Then you should read Charts Runners - a collection of short essays on how to visualize data, how not to do it, how to use ggplot2 package and what visual communication standards you can use.\nThe Chaos Game is for those interested in fractals. The three short stories will introduce both the characters of the three great mathematicians and allow you to learn the mathematical basis of fractals - geometric figures with properties not of this earth. The included codes in R, Python and Julia will allow you to draw fractals yourself in any of these languages."
+  },
+  {
+    "objectID": "index.html#who-is-beta-and-bit",
+    "href": "index.html#who-is-beta-and-bit",
+    "title": "Data Adventures with Beta and Bit",
+    "section": "Who is Beta and Bit?",
+    "text": "Who is Beta and Bit?\n\n\n\nAt their headquarters, Beta and Bit are awaiting a new data analysis challenge\n\n\nBeta is math geek, interested in statistics and data analysis. It is important to her that every performed analyses have a solid foundation and are well validated.\nBit is a computer scientist, interested in data science and machine learning. He loves to code robots, break security measures, knows many programming languages and usually acts first then thinks.\nTogether they make a great team, able to look at complex problems from different perspectives to find the best solution."
+  },
+  {
+    "objectID": "index.html#what-are-beta-and-bit-stories",
+    "href": "index.html#what-are-beta-and-bit-stories",
+    "title": "Data Adventures with Beta and Bit",
+    "section": "What are Beta and Bit stories?",
+    "text": "What are Beta and Bit stories?\nThe Beta and Bit stories are a series of adventure stories involving the deeper statistical analysis of a problem. Each problem is presented from beginning to end, so that the reader can understand the reason why the problem is being solved in this particular way, but also see how different potential solutions translate into results.\nThe collection of stories will be expanded and we also continue to look for new applications for them. If you would like to talk about new stories or new potential applications, please contact me https://www.linkedin.com/in/pbiecek/."
   }
 ]
