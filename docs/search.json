@@ -7,39 +7,25 @@
     "text": "The Beta Bit project was conceived to help understand the statistical thinking mindset and to increase skills known as data literacy. This can be accomplished in a variety of ways, the approach we prefer here is based on three foundations:\n\nShow the whole process. When working with data, it is very rare to use only one method or one trick. So showing how statistical thinking works should show the entire process of inference so that one can understand the context and the impact of the choices taken along the way from the begining to the final results.\nData analysis is fun. So learning how to do data analysis should be fun to! This can be achieved by using real data and current and interesting problems.\nPlay through these adventures yourself by messing with the data in your favorite software. All results presented should be completely reproducible so that the reader can try for themselves what would have happened if they had made different decisions in the data analysis process."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#beta-and-bit-stories",
+    "href": "index.html#beta-and-bit-stories",
     "title": "Data Adventures with Beta and Bit",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "section": "Beta and Bit stories",
+    "text": "Beta and Bit stories\nThe list of stories will grow. Currently, we invite you to read the following stories.\n\nDo you want to explore the life cycle of a predictive model? How to build a predictive model using decision trees or a random forest and then dig deeper into the model to understand what relationships it has learned? If so, the story ,,The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R’’ is for you.\nOr maybe you are interested in the arcana of data visualization? Then you should read Charts Runners - a collection of short essays on how to visualize data, how not to do it, how to use ggplot2 package and what visual communication standards you can use.\nThe Chaos Game is for those interested in fractals. The three short stories will introduce both the characters of the three great mathematicians and allow you to learn the mathematical basis of fractals - geometric figures with properties not of this earth. The included codes in R, Python and Julia will allow you to draw fractals yourself in any of these languages."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#who-is-beta-and-bit",
+    "href": "index.html#who-is-beta-and-bit",
     "title": "Data Adventures with Beta and Bit",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018\n\nThis content appears below the formatted about page content."
+    "section": "Who is Beta and Bit?",
+    "text": "Who is Beta and Bit?\n\n\n\nAt their headquarters, Beta and Bit are awaiting a new data analysis challenge\n\n\nBeta is math geek, interested in statistics and data analysis. It is important to her that every performed analyses have a solid foundation and are well validated.\nBit is a computer scientist, interested in data science and machine learning. He loves to code robots, break security measures, knows many programming languages and usually acts first then thinks.\nTogether they make a great team, able to look at complex problems from different perspectives to find the best solution."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Introduction to Charts",
-    "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Introduction to Charts",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Introduction to Charts",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "objectID": "index.html#what-are-beta-and-bit-stories",
+    "href": "index.html#what-are-beta-and-bit-stories",
+    "title": "Data Adventures with Beta and Bit",
+    "section": "What are Beta and Bit stories?",
+    "text": "What are Beta and Bit stories?\nThe Beta and Bit stories are a series of adventure stories involving the deeper statistical analysis of a problem. Each problem is presented from beginning to end, so that the reader can understand the reason why the problem is being solved in this particular way, but also see how different potential solutions translate into results.\nThe collection of stories will be expanded and we also continue to look for new applications for them. If you would like to talk about new stories or new potential applications, please contact me https://www.linkedin.com/in/pbiecek/."
   },
   {
     "objectID": "rml.html",
@@ -49,88 +35,11 @@
     "text": "Dive into the world of responsible machine learning with the RML comic/text/book. It showcase the process of developing predictive models, emphasizing validation and exploration techniques while integrating cutting-edge eXplainable Artificial Intelligence (XAI) methods.\nExplore ten detailed parts, unraveling the step-by-step journey of model creation, analysis, and validation. Balancing theory, practical code examples in Python and R, and an engaging comic narrative, join Beta and Bit on their adventures to grasp the essence of model development.\nDiscover the thrill and depth of crafting models responsibly, making learning both insightful and enjoyable.\n\n\n\nrml2_cycle.png"
   },
   {
-    "objectID": "rml.html#education",
-    "href": "rml.html#education",
+    "objectID": "rml.html#about",
+    "href": "rml.html#about",
     "title": "The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "rml.html#experience",
-    "href": "rml.html#experience",
-    "title": "The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "chaos.html",
-    "href": "chaos.html",
-    "title": "Chaos Game",
     "section": "",
-    "text": "It will be updated shortly!\nPlease come back soon"
-  },
-  {
-    "objectID": "chaos.html#education",
-    "href": "chaos.html#education",
-    "title": "Chaos Game",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "chaos.html#experience",
-    "href": "chaos.html#experience",
-    "title": "Chaos Game",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "charts.html",
-    "href": "charts.html",
-    "title": "Chart Runners",
-    "section": "",
-    "text": "It will be updated shortly!\nPlease come back soon"
-  },
-  {
-    "objectID": "charts.html#education",
-    "href": "charts.html#education",
-    "title": "Chart Runners",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "charts.html#experience",
-    "href": "charts.html#experience",
-    "title": "Chart Runners",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "rml.html#dla-kogo",
-    "href": "rml.html#dla-kogo",
-    "title": "The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R",
-    "section": "Dla kogo?",
-    "text": "Dla kogo?\nRML wykorzystu"
-  },
-  {
-    "objectID": "rml.html#fully-reproducible-examples",
-    "href": "rml.html#fully-reproducible-examples",
-    "title": "The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R",
-    "section": "Fully reproducible examples",
-    "text": "Fully reproducible examples\nImmerse yourself in the reality of responsible machine learning within the context of the COVID-19 pandemic. Our book features real datasets pertaining to this global health crisis, ensuring that all findings and results presented are rooted in actual, tangible information. Moreover, we prioritize reproducibility, offering complete transparency in our methodologies and providing step-by-step instructions that empower readers to replicate every analysis, model, and outcome. Explore the intricate world of predictive modeling with confidence, knowing that the journey is not only informative but also entirely reproducible, fostering a deeper understanding of the models and their implications in this critical time.\n\n\n\nrml2_cycle.png"
-  },
-  {
-    "objectID": "rml.html#language-versions",
-    "href": "rml.html#language-versions",
-    "title": "The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R",
-    "section": "Language versions",
-    "text": "Language versions\nThis book was translated into following langauges:\n\nSpanish translation ,,La Guía del Viajero al Aprendizaje Automático Responsable’’ by Juan C. Correa and Yanina Bellini Saibene avaliable at https://betaandbit.github.io/RML_ES/\nGerman translation ,,Per Anhalter durch die Galaxis des verantwortungsvollen maschinellen Lernens’’ by Gero Szepannek avaliable at https://betaandbit.github.io/RML_DE/\nTurkish translation ,,Sorumlu Makine Öğrenmesi Rehberi’’ by Mustafa Çavuş and Özlem Kurt Çavuş avaliable at https://betaandbit.github.io/RML_TR/\nPolish translation ,,Wprowadzenie do modelowania predykcyjnego’’ by Anna Kozak and Przemysław Biecek avaliable at https://betaandbit.github.io/MiniML/\nVietnamese translation ,,4.0.1 Cùng xây dựng Model Machine Learning với Bêta và Bít’’ by Lý Hoàng Thiên avaliable at https://betaandbit.github.io/RML_VN/"
-  },
-  {
-    "objectID": "rml.html#how-to-get-the-paper-version",
-    "href": "rml.html#how-to-get-the-paper-version",
-    "title": "The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R",
-    "section": "How to get the paper version?",
-    "text": "How to get the paper version?"
+    "text": "Dive into the world of responsible machine learning with the RML comic/text/book. It showcase the process of developing predictive models, emphasizing validation and exploration techniques while integrating cutting-edge eXplainable Artificial Intelligence (XAI) methods.\nExplore ten detailed parts, unraveling the step-by-step journey of model creation, analysis, and validation. Balancing theory, practical code examples in Python and R, and an engaging comic narrative, join Beta and Bit on their adventures to grasp the essence of model development.\nDiscover the thrill and depth of crafting models responsibly, making learning both insightful and enjoyable.\n\n\n\nrml2_cycle.png"
   },
   {
     "objectID": "rml.html#fully-reproducible-code-snippets",
@@ -154,31 +63,24 @@
     "text": "What to do with this book?\nYou can use this book as a self-teaching materials, it provides a comprehensive guide to understanding responsible machine learning, offering theoretical insights alongside practical code examples in Python and R. Moreover, it stands as an invaluable companion for workshops and training sessions focused on machine learning. Educators and workshop facilitators can utilize its structured approach and reproducible analyses to augment workshops, fostering in-depth discussions and hands-on learning experiences."
   },
   {
-    "objectID": "rml.html#about",
-    "href": "rml.html#about",
+    "objectID": "rml.html#language-versions",
+    "href": "rml.html#language-versions",
     "title": "The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R",
+    "section": "Language versions",
+    "text": "Language versions\nThis book was translated into following langauges:\n\nSpanish translation ,,La Guía del Viajero al Aprendizaje Automático Responsable’’ by Juan C. Correa and Yanina Bellini Saibene avaliable at https://betaandbit.github.io/RML_ES/\nGerman translation ,,Per Anhalter durch die Galaxis des verantwortungsvollen maschinellen Lernens’’ by Gero Szepannek avaliable at https://betaandbit.github.io/RML_DE/\nTurkish translation ,,Sorumlu Makine Öğrenmesi Rehberi’’ by Mustafa Çavuş and Özlem Kurt Çavuş avaliable at https://betaandbit.github.io/RML_TR/\nPolish translation ,,Wprowadzenie do modelowania predykcyjnego’’ by Anna Kozak and Przemysław Biecek avaliable at https://betaandbit.github.io/MiniML/\nVietnamese translation ,,4.0.1 Cùng xây dựng Model Machine Learning với Bêta và Bít’’ by Lý Hoàng Thiên avaliable at https://betaandbit.github.io/RML_VN/"
+  },
+  {
+    "objectID": "charts.html",
+    "href": "charts.html",
+    "title": "Chart Runners",
     "section": "",
-    "text": "Dive into the world of responsible machine learning with the RML comic/text/book. It showcase the process of developing predictive models, emphasizing validation and exploration techniques while integrating cutting-edge eXplainable Artificial Intelligence (XAI) methods.\nExplore ten detailed parts, unraveling the step-by-step journey of model creation, analysis, and validation. Balancing theory, practical code examples in Python and R, and an engaging comic narrative, join Beta and Bit on their adventures to grasp the essence of model development.\nDiscover the thrill and depth of crafting models responsibly, making learning both insightful and enjoyable.\n\n\n\nrml2_cycle.png"
+    "text": "It will be updated shortly!\nPlease come back soon"
   },
   {
-    "objectID": "index.html#beta-and-bit-stories",
-    "href": "index.html#beta-and-bit-stories",
-    "title": "Data Adventures with Beta and Bit",
-    "section": "Beta and Bit stories",
-    "text": "Beta and Bit stories\nThe list of stories will grow. Currently, we invite you to read the following stories.\n\nDo you want to explore the life cycle of a predictive model? How to build a predictive model using decision trees or a random forest and then dig deeper into the model to understand what relationships it has learned? If so, the story ,,The Hitchhiker’s Guide to Responsible Machine Learning with code snippets in Python and R’’ is for you.\nOr maybe you are interested in the arcana of data visualization? Then you should read Charts Runners - a collection of short essays on how to visualize data, how not to do it, how to use ggplot2 package and what visual communication standards you can use.\nThe Chaos Game is for those interested in fractals. The three short stories will introduce both the characters of the three great mathematicians and allow you to learn the mathematical basis of fractals - geometric figures with properties not of this earth. The included codes in R, Python and Julia will allow you to draw fractals yourself in any of these languages."
-  },
-  {
-    "objectID": "index.html#who-is-beta-and-bit",
-    "href": "index.html#who-is-beta-and-bit",
-    "title": "Data Adventures with Beta and Bit",
-    "section": "Who is Beta and Bit?",
-    "text": "Who is Beta and Bit?\n\n\n\nAt their headquarters, Beta and Bit are awaiting a new data analysis challenge\n\n\nBeta is math geek, interested in statistics and data analysis. It is important to her that every performed analyses have a solid foundation and are well validated.\nBit is a computer scientist, interested in data science and machine learning. He loves to code robots, break security measures, knows many programming languages and usually acts first then thinks.\nTogether they make a great team, able to look at complex problems from different perspectives to find the best solution."
-  },
-  {
-    "objectID": "index.html#what-are-beta-and-bit-stories",
-    "href": "index.html#what-are-beta-and-bit-stories",
-    "title": "Data Adventures with Beta and Bit",
-    "section": "What are Beta and Bit stories?",
-    "text": "What are Beta and Bit stories?\nThe Beta and Bit stories are a series of adventure stories involving the deeper statistical analysis of a problem. Each problem is presented from beginning to end, so that the reader can understand the reason why the problem is being solved in this particular way, but also see how different potential solutions translate into results.\nThe collection of stories will be expanded and we also continue to look for new applications for them. If you would like to talk about new stories or new potential applications, please contact me https://www.linkedin.com/in/pbiecek/."
+    "objectID": "chaos.html",
+    "href": "chaos.html",
+    "title": "Chaos Game",
+    "section": "",
+    "text": "It will be updated shortly!\nPlease come back soon"
   }
 ]
