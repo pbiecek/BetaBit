@@ -9,9 +9,50 @@ about:
       href: https://chaosgame.drwhy.ai/
 ---
 
-It will be updated shortly!
 
-Please come back soon
+## About
+
+Dive into the world of bizarre figures - fractals. Seemingly chaotic but described in a surprisingly orderly way. However, to discover this order, one must know what to look at.
+
+Our journey through the land of fractals consists of three parts. Each part has its own guide, an outstanding Polish mathematician whose results are related to fractals.
+
+The first part is mainly focused on the construction of three simple fractals. Here we will organize some key concepts necessary to understand the succeeding chapters. A brilliant organizer — Wacław Sierpiński – is the guide.
+
+The second part will allow us to delve into the mathematical foundations of fractals. There will be definitions and theorems that math students usually encounter in their first year of study. Who could take better care of this part than the brilliant mathematician Stefan Banach?
+
+The third part is lead by Hugo Steinhaus, who was very interested in applications. So he is a dream guide to interesting applications of fractals.
 
 
-<!-- ![chaos_triangle.png](chaos_triangle.png) -->
+![chaos_triangle.png](chaos_triangle.png)
+
+
+## Fully reproducible code snippets 
+
+Immerse yourself in a story based on real development of fractals. 
+We prioritize reproducibility, offering complete transparency in our methodologies and providing step-by-step instructions that empower readers to replicate every analysis, plot, and outcome. 
+
+The data, R, Julia and Python scripts are avaliable at [https://chaosgame.drwhy.ai/](https://chaosgame.drwhy.ai/).
+
+
+## How to get this book?
+
+Currently a printed version is not avaliable for sale.
+
+But, you can get an onilne version for free.
+The online version is avaliable at [https://chaosgame.drwhy.ai/](https://chaosgame.drwhy.ai/).
+
+
+## What to do with this book?
+
+You can use this book as a self-teaching materials, it provides a comprehensive guide to understanding basics of iterate function systems (aka Fractals), offering theoretical insights alongside practical code examples in Python, Julia and R. Moreover, it stands as an invaluable companion for workshops and training sessions focused on fractals. Educators and workshop facilitators can utilize its structured approach and reproducible analyses in hands-on workshops. 
+
+
+## Language versions
+
+This book was translated into following langauges:
+
+- Polish translation *,,Gra w Chaos''*  by *Przemysław Biecek* avaliable at [https://chaos.drwhy.ai/](https://chaos.drwhy.ai/)
+- English translation *,,Chaos Game''* by *Mateusz Krzyzinski* and *Barlomiej Sobieski* avaliable at [https://chaosgame.drwhy.ai/](https://chaosgame.drwhy.ai/)
+
+
+
