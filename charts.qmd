@@ -14,42 +14,41 @@ about:
 
 How to create good plots? Good ones, meaning ones that are viewed with pleasure, that are informative, that are understood by a wide audience but that still can be appreciated by connoisseurs.
 
-It requires some training and knowledge of some principles but it is a skill that can be learned. And it’s not just idle chatter, I have proof. Since 2013 I’ve been teaching a Data Visualization Techniques course at the University of Warsaw and Warsaw University of Technology. During this time I’ve had the pleasure of working with hundreds of STEM students, most of whom were able to create amazing, clear and often exceptional visualizations, right after learning about the rules of communication via plots.
+It requires some training and knowledge of some principles but it is a skill that can be learned. And it’s not just idle chatter, I have proof. Since 2013 I’ve been teaching a Data Visualization Techniques course at the University of Warsaw and Warsaw University of Technology. During this time I’ve had the pleasure of working with hundreds of STEM students, most of whom were able to create amazing, clear, and often exceptional visualizations, right after learning about the rules of communication via plots.
 
-Based on the experience from these classes, Chart Runners were created. This is a collection of brief lectures on different aspects useful for better understanding, how communication with the use of statistical charts works. On the following pages, many analogies to preparing dishes will be presented because both in the kitchen, as well as when preparing statistical charts, you need practice, the knowledge of some basic principles, a bunch of trusted recipes and lots of enthusiasm for experimentation. With this arsenal, any student of culinary arts is destined for success.
+Based on the experience from these classes, Chart Runners were created. This is a collection of brief lectures on different aspects useful for better understanding, how communication with the use of statistical charts works. On the following pages, many analogies to preparing dishes will be presented because both in the kitchen, as well as when preparing statistical charts, you need practice, the knowledge of some basic principles, a bunch of trusted recipes, and lots of enthusiasm for experimentation. With this arsenal, any student of culinary arts is destined for success.
 
 Discover the thrill and depth of crafting charts, making learning both insightful and enjoyable.
 
 ## Fully reproducible code snippets 
 
-Immerse yourself in a story based on exploration of food products!
-The last chapter is all about learning how to create plots in `ggplot2` package for `R`.
-With this book you can easily get all the data and snippets required to reproduced presented results.
+Immerse yourself in a story based on the exploration of food products!
+The last chapter is all about learning how to create plots in the `ggplot2` package for `R`.
+With this book, you can easily get all the data and snippets required to reproduce presented results.
 
-Just jump to the last chapter and you will find everything what is needed there. [https://betaandbit.github.io/Charts/code_it.html](https://betaandbit.github.io/Charts/code_it.html).
+Just jump to the last chapter and you will find everything that is needed there. [https://betaandbit.github.io/Charts/code_it.html](https://betaandbit.github.io/Charts/code_it.html).
 
 ![charts_ggplot2.png](charts_ggplot2.png) 
 
 
 ## How to get this book?
 
-Currently a printed version is not avaliable for sale.
+Currently, a printed version is not available for sale.
 
-But, you can get an onilne version for free.
-The online version is avaliable at [https://betaandbit.github.io/Charts/](https://betaandbit.github.io/Charts/).
+But, you can get an online version for free.
+The online version is available at [https://betaandbit.github.io/Charts/](https://betaandbit.github.io/Charts/).
 
 ## What to do with this book?
 
-You can use this book as a self-teaching materials or as a supplementary/companion materials to any course related to Data Visualistion. Educators and workshop facilitators can utilize its structured approach and reproducible analyses to augment workshops, fostering in-depth discussions and hands-on learning experiences. 
+You can use this book as self-teaching material or as supplementary/companion material to any course related to Data Visualization. Educators and workshop facilitators can utilize its structured approach and reproducible analyses to augment workshops, fostering in-depth discussions and hands-on learning experiences. 
 
 
 ## Language versions
 
-This book was translated into following langauges:
+This book was translated into the following languages:
 
-- English translation *,,Chart runnert''* by *Mikolaj Spytek* and *Mateusz Krzyzinski* avaliable at [https://betaandbit.github.io/Charts/](https://betaandbit.github.io/Charts/)
-- Polish translation *,,Wykresy od kuchni''* by *Przemysław Biecek* avaliable at [https://betaandbit.github.io/Wykresy/](https://betaandbit.github.io/Wykresy/)
-- Turkish translation *,,Sorumlu Makine Öğrenmesi Rehberi''* by *Mustafa Çavuş* avaliable soon
-
+- English translation *,,Chart Runners''* by *Mikolaj Spytek* and *Mateusz Krzyzinski* available at [https://betaandbit.github.io/Charts/](https://betaandbit.github.io/Charts/)
+- Polish translation *,,Wykresy od Kuchni''* by *Przemysław Biecek* available at [https://betaandbit.github.io/Wykresy/](https://betaandbit.github.io/Wykresy/)
+- Turkish translation *,,Grafik Avcıları''* by *Mustafa Çavuş* at [available soon](available soon)
 
 
